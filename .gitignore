@@ -22,3 +22,6 @@ venv/
 .env.*
 !.env.example
 .DS_Store
+
+# Local SQLite database
+src/database/*.db
